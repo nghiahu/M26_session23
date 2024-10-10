@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "State trong ReactJS",
+      "image": "",
+      "status": false,
+      "content": "Nội dung",
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 2,
+      "title": "Props trong ReactJS",
+      "image": "",
+      "status": true,
+      "content": "Nội dung về Props",
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 3,
+      "title": "Lifecycle Methods trong ReactJS",
+      "image": "",
+      "status": true,
+      "content": "Nội dung về Lifecycle",
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 4,
+      "title": "Hooks trong ReactJS",
+      "image": "",
+      "status": false,
+      "content": "Nội dung về Hooks",
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 5,
+      "title": "Redux trong ReactJS",
+      "image": "",
+      "status": true,
+      "content": "Nội dung về Redux",
+      "create_at": "10/10/2024"
+    }
+  ]
+}

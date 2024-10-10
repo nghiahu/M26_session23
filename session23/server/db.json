@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Ngô Hữu Nghĩa",
+      "email": "nghia12345@gmail.com",
+      "address": "Hải Phòng",
+      "phone": "0911352323",
+      "status": true,
+      "create_at": "10/10/2024"
+    },
+    {
+      "student_name": "Lê Thị Táo Mèo",
+      "email": "taog55555@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0911223344",
+      "status": false,
+      "create_at": "10/10/2024",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "student_name": "Trần Văn Bảo",
+      "email": "bao12345@gmail.com",
+      "address": "Đà Nẵng",
+      "phone": "0931234567",
+      "status": false,
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 4,
+      "student_name": "Phạm Hoàng Long",
+      "email": "long99999@gmail.com",
+      "address": "TP. Hồ Chí Minh",
+      "phone": "0977654321",
+      "status": true,
+      "create_at": "10/10/2024"
+    },
+    {
+      "id": 5,
+      "student_name": "Lê Thị Hồng",
+      "email": "hong55555@gmail.com",
+      "address": "Cần Thơ",
+      "phone": "0911223344",
+      "status": false,
+      "create_at": "10/10/2024"
+    },
+    {
+      "student_name": "Lê Thị Táo",
+      "email": "taog55555@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0911223344",
+      "status": false,
+      "create_at": "10/10/2024",
+      "id": 6
+    },
+    {
+      "student_name": "Lê Thị Táo",
+      "email": "taog55555@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0911223344",
+      "status": false,
+      "create_at": "10/10/2024",
+      "id": 7
+    }
+  ]
+}
